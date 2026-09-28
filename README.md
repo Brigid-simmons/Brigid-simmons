@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello and welcome to my GitHub page! My name is Brigid Simmons and I'm a Computer Science and Linguistics student. I love to complete passion projects alongside my regular coursework.
 
 <!--
 **Brigid-simmons/Brigid-simmons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
