@@ -1,5 +1,9 @@
-## Hello and welcome to my GitHub page! My name is Brigid Simmons and I'm a Computer Science and Linguistics student. I love to complete passion projects alongside my regular coursework.
+## Hey there!
 
+
+<p>
+  Welcome to my GitHub. My name is Brigid Simmons, and I am a student studying Computer Science and Linguistics. I do a lot of passion projects outside of my coursework, and I feature them here!
+</p>
 <!--
 **Brigid-simmons/Brigid-simmons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
